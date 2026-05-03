@@ -1,11 +1,15 @@
 # ECSAT
 
-ECSAT 项目开源模块，包含熵分析，拥挤度预测与实验配置相关代码。
+Open-source modules of the ECSAT project, including code for entropy analysis, congestion prediction, and experimental configuration.
 
-## 内容
+## Contents
 - `src/SET.py`
 - `src/congestion_predictor.py`
 - `src/entropy_allocation.py`
 
-## 许可证
+## License
 MIT License
+
+---
+
+The complete code will be open-sourced upon acceptance of the paper.
